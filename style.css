@@ -237,11 +237,11 @@ transform: rotate(45deg);
 .text-content2 h1::after {
 content: '';
 position: absolute;
-bottom: 0; /* Align with the bottom of the h1 */
-left: 8px; /* Start the line after the rhombus */
-width: 20%; /* Set the border length to 50% of the h1 width */
-height: 2px; /* Border thickness */
-background-color: #ff3a93; /* Same color as the border */
+bottom: 0; 
+left: 8px; 
+width: 20%; 
+height: 2px; 
+background-color: #ff3a93;
 
 
 }
